@@ -3,7 +3,7 @@
 :scream:
 Вот они слева направо
 FAST AS FUCK BOI
-§1@азамат§f, извени
+§3@азамат§f, извени
 Бл*ин
 Бесконечно можно смотреть на три вещи: как горит огонь, как течет вода и как Саншайн свитчит микро
 §7% Rolled a 1 \n §2+ Critical hit!
@@ -13,7 +13,7 @@ FAST AS FUCK BOI
 Суицид не выход.
 Осторожно! Низкий пол.
 §4[Server] §fПерезапуск через §45 минут
-§1@everyone §fget in §1@here
+§3@everyone §fget in §3@here
 vibe check
 :peepoClown:
 :CoolSad: :sweat_drops: :person_swimming:
