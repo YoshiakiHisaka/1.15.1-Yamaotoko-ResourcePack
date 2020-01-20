@@ -1,0 +1,64 @@
+{
+	"textureSize": [16, 16],
+	"models":
+               [
+                {
+                        "model": "banning.jpm",
+			"part": "head",
+                        "attach": false,
+                        "invertAxis": "y",
+			"translate": [0, 0, 0]
+                },
+                {
+                        "model": "banning.jpm",
+			"part": "tail",
+                        "attach": false,
+                        "invertAxis": "y",
+			"translate": [0, 0, 0]
+                },
+                {
+                        "model": "banning.jpm",
+			"part": "tail2",
+                        "attach": false,
+                        "invertAxis": "y",
+			"translate": [0, 0, 0]
+                },
+                {
+                        "model": "phantom_legs.jpm",
+			"part": "body",
+                        "attach": true,
+                        "invertAxis": "y",
+			"translate": [-0.5, -3, -2]
+                },
+                {
+                        "model": "phantom_head.jpm",
+			"part": "body",
+                        "attach": true,
+                        "invertAxis": "y",
+			"translate": [0, 0.5, -8],
+                        "animations":
+                [
+                 {
+		  "this.rx": "-head.rx",
+		  "this.ry": "head.ry",
+		  "this.rz": "-head.rz + pi"
+                  }
+                 ]   
+                },
+                {
+                        "model": "phantom_tail.jpm",
+			"part": "body",
+                        "attach": true,
+                        "invertAxis": "y",
+			"translate": [-0.5, 1.5, 1],
+                        "animations":
+                [
+                 {
+		  "this.rx": "-tail.rx",
+		  "this.ry": "tail.ry",
+		  "this.rz": "-tail.rz + pi"
+                  }
+                 ]   
+                }
+        ]
+}
